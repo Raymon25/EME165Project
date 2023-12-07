@@ -1,3 +1,9 @@
+%I confirm that my work in this project is solely my own effort and that I have not received assistance
+%from any person OR organization within or outside the class. I understand that while discussion with
+%friends is permitted, but the formulation and coding are my own work. I furthermore understand that
+%any impropriety will be reported to the UC Davis student misconduct office for disciplinary action.
+%Student Signature: Raymon Duran
+
 clear;
 
 %This script makes use of numerically substitued energy equations acquired
